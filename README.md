@@ -1,2 +1,1 @@
-# Facebook-Profile
-IT Paradigm Web-Dev Facebook Profile Challenge
+https://rodriguezrafaelc.github.io/Facebook-Profile/
